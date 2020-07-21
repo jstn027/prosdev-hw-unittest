@@ -29,4 +29,4 @@ D | Did not Meet Expectation | 74.99 and below
 3. After running all the tests and everything passed, take a screenshot of the results and add it as a section in the README.
 
 ## Results
-*TODO: Insert screenshot of the results from the command line*
+![image](https://user-images.githubusercontent.com/43631892/88029154-34257d00-cb6c-11ea-95e0-41156d74b1b4.png)
